@@ -38,3 +38,6 @@ npm install --save nodemon (monitorar todas as alterações nos arquivos de sua 
 ## Features
 
 O projeto pode ser usado como modelo para iniciar o desenvolvimento de um projeto Node usando o Express e o Mongo. Ele também demonstra de forma prática como funcionar uma verdadeira APIRestFull.
+
+## Executar
+Depois disso a API estará disponível em localhost:8081/api/v1/users.
