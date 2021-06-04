@@ -17,7 +17,7 @@ Para iniciar o desenvolvimento, é necessário clonar o projeto do GitHub num di
 
 ```shell
 cd "diretorio de sua preferencia"
-git clone https://github.com/LuanFaust/api
+git clone https://github.com/LuanFaust/test-FullstackJSJunior.git
 ```
 
 ### Construção
